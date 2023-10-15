@@ -1,0 +1,201 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* font-family: "myriad-pro-condensed", sans-serif; */
+}
+
+/* first session start */
+.navv{
+    background-color: #efc964;
+}
+.logo{
+    width: 120px;
+    padding-top: 10px;
+    margin: 13px;
+}
+.second{
+    height: 65px;
+    font-size: 30pt;
+    font-weight: 400;
+}
+.image{
+    padding: 0px 0px;
+}
+.last{
+    height: 100px;
+    padding-top: 20px;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.first{
+    position: relative;
+    /* background-color: rebeccapurple; */
+}
+.main{
+    background-color: #51514f89;
+    position: absolute;
+    height: 122%;
+    display: flex;
+    left: 485px;
+}
+.icon{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+    
+}
+.side{
+    height: 90px;
+   
+}
+
+/* second session */
+
+.main2{
+    background-color: #51514f9d;
+    position: absolute;
+    height: 100%;
+    display: flex;
+    left: 400px;
+}
+.text{
+    font-size: small;
+    color: #efc964;
+}
+.para{
+    font-size: x-small;
+}
+
+.layer2{
+    background-color: #efc964;
+    height: 80px;
+    padding-top: 20px;
+}
+.secon2{
+    font-size: x-small;
+}
+.layer3{
+    background-color: #bbd1d2;
+    height: 70px;
+    font-size: 14px;
+    font-weight: 100px;
+}
+
+/* session three */
+
+.three{
+    position: relative;
+}
+.nav{
+    background-color: #efc964;
+    height: 50px;
+}
+.logo3{
+    width: 100px;
+    height: 20px;
+    position: relative;
+    left: 450px;
+    top: 15px;
+}
+.main3{
+    background-color: #51514f;
+    position: absolute;
+    height: 167%;
+    display: flex;
+    left: 400px;
+}
+.star{
+    background-color: #636362;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image3star{
+    height: 120px; 
+}
+#star{
+    color: #efc964;
+}
+.para3{
+    font-size: 15px;
+}
+.bull{
+    background-color: #efc964;
+    height: 60px;
+    position: relative;   
+}
+#bull{
+    height: 50px;
+    position: absolute;
+    left: 150px;
+    top: 8px;
+}
+.offer{
+    letter-spacing: 1px;
+}
+.final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* session four */
+
+.fouth{
+    position: relative;
+    /* background-color: rebeccapurple; */
+}
+.main4{
+    background-color: #51514fb5;
+    position: absolute;
+    height: 143%;
+    display: flex;
+    left: 485px;
+}
+.all{
+    color: #efc964;
+}
+.shape{
+    position:absolute;
+    height: 450px;
+    left: 595px;
+    top: 2974px;
+}
+.more{
+    background-color: #efc964;
+    padding-top: 60px;
+}
+
+/* session five */
+
+.logo5{
+    width: 120px;
+    padding-top: 13px;
+}
+.sofa{
+    height: 60px;
+}
+.sofa h6{
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding-top: 23px;
+    margin-left: 30px;
+}
+#lorem{
+    font-size: 10px;
+
+}
+#son{
+    font-size: small;
+}
+#days{
+    font-size: 16px;
+    font-weight: 500;
+}
+.end{
+    background-color: #efc964;
+    padding: 30px;
+}
